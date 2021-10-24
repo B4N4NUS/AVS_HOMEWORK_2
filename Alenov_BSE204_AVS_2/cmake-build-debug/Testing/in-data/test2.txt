@@ -1,0 +1,12 @@
+1
+Docker Desktop ;
+2
+3 Visual Studio Code ;
+3
+Arduino IDE ;
+2
+3 PyCharm ;
+1
+DataGrip ;
+2
+1 Solidworks ;
